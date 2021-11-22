@@ -11,7 +11,7 @@ public class Modify {
     }
 
     public String firstModify(){
-        return "first";
+        return "first 李刚";
     }
 
 }
